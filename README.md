@@ -1,18 +1,14 @@
-<h1><p align="left">Hi 👋! My name is Raju Devnath and I'm a CS undergrade student, from India</p></h1>
-<h2>Dedicated learner with a keen 
-understanding of the critical role data 
-plays in various facets of life. It is a 
-capital mistake to theorize before one has 
-enough data. Data Science is a continues 
-learning process and as a fresher always  
-eager to learn new concepts & 
-implementations.  </h2>
+<p align="left">Hi 👋! My name is Raju Devnath and I'm a CS undergrade student, from India</p>
+
+###
+
+<p align="left">👋Dedicated learner with a keen understanding of the critical role data plays in various facets of life. It is a capital mistake to theorize before one has enough data. Data Science is a continues learning process and as a fresher always eager to learn new concepts & implementations.</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajdev12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdev12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdev12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rajdev12&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -55,13 +51,17 @@ implementations.  </h2>
 </div>
 
 ###
-<div align="center">Profile Visitors</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rajdev12/count.svg?"  />
-</div>
+
+<img src="https://raw.githubusercontent.com/rajdev12/rajdev12/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/rajdev12/rajdev12/output/snake.svg" alt="Snake animation" />
+<p align="center">Profile Views</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rajdev12/count.svg?"  />
+</div>
 
 ###
