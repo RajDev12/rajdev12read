@@ -1,10 +1,12 @@
-<h1><p align="left">Hi 👋! My name is Raju Devnath and I'm a CS undergrade student, from India</p></h1>h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rajdev12/count.svg?"  />
-</div>
+<h1><p align="left">Hi 👋! My name is Raju Devnath and I'm a CS undergrade student, from India</p></h1>
+<h2>Dedicated learner with a keen 
+understanding of the critical role data 
+plays in various facets of life. It is a 
+capital mistake to theorize before one has 
+enough data. Data Science is a continues 
+learning process and as a fresher always  
+eager to learn new concepts & 
+implementations.  </h2>
 
 ###
 
@@ -50,6 +52,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+<div align="center">Profile Visitors</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rajdev12/count.svg?"  />
 </div>
 
 ###
