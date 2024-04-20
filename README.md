@@ -1,4 +1,4 @@
-<h1><p align="left">Hi 👋! My name is Raju Devnath and I'm a CS undergrade student, from India</p></h1>
+<h1><p align="left">Hi 👋! My name is Raju Devnath and I'm a CS Graduate from India</p></h1>
 
 ###
 
